@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">RepoLink</string>
+    <string name="title_activity_main">RepoLink</string>
+    <string name="package_name">com.deivermperniah.repolink</string>
+    <string name="custom_url_scheme">com.deivermperniah.repolink</string>
+</resources>
